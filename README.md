@@ -58,5 +58,7 @@ Then open http://localhost:8501 in your browser.
 
 📊 Results
 The Random Forest model achieved high performance on imbalanced fraud data with proper preprocessing and feature selection. 
-The dashboard allows fraud analysts to simulate real-time decision making.👨‍💻 Author
-SabariInternship Project - Machine Learning & Data Analytics⭐
+The dashboard allows fraud analysts to simulate real-time decision making.
+
+👨‍💻 Author
+Sabari & Sam Internship Project - Machine Learning & Data Analytics⭐
