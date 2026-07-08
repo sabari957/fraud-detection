@@ -1,0 +1,46 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.pyc
+
+# Virtual Environments
+venv/
+env/
+.env/
+.venv/
+
+# Jupyter Notebooks
+.ipynb_checkpoints/
+*.ipynb
+
+# Distribution / packaging
+dist/
+build/
+*.egg-info/
+
+# IDE / Editor files
+.vscode/
+.idea/
+*.swp
+*.swo
+.DS_Store
+Thumbs.db
+
+# Streamlit cache only (not the config folder)
+.streamlit/cache/
+
+# Large raw data files — keep if under 100MB, use Git LFS otherwise
+# top_5_fraud.csv is ~18MB — safe to push directly
+# *.csv
+# *.parquet
+
+# Model files (large binaries — use Git LFS or separate storage)
+# *.joblib  # Uncomment this if you use Git LFS for models
+
+# Logs
+*.log
+logs/
+
+# OS files
+desktop.ini
