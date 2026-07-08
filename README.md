@@ -33,7 +33,7 @@ This project demonstrates data preprocessing, model training, evaluation, and de
 `Python` `Streamlit` `scikit-learn` `Pandas` `NumPy` `Plotly` `joblib`
 
 ## 📦 Installation & How to Run
-
+```bash
 1. Clone the repository
 git clone https://github.com/sabari957/fraud-detection.git
 cd fraud-detection
