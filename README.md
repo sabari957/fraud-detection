@@ -34,16 +34,17 @@ This project demonstrates data preprocessing, model training, evaluation, and de
 
 ## 📦 Installation & How to Run
 
-1. **Clone the repository**
+1. Clone the repository
 ```bash
 git clone https://github.com/sabari957/fraud-detection.git
 cd fraud-detection
 
-**Install dependencies**
-- bashpip install -r requirements.txt
-- Run the Streamlit app
-- bashstreamlit run app.py
-- Then open http://localhost:8501 in your browser.
+2. Install dependencies
+```bash
+pip install -r requirements.txt
+Run the Streamlit app
+bashstreamlit run app.py
+Then open http://localhost:8501 in your browser.
 
 📁 Repository Structurejavascriptfraud-detection/
 ├── app.py                 # Main Streamlit dashboard
