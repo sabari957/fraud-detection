@@ -45,7 +45,7 @@ Run the Streamlit app
 bashstreamlit run app.py
 Then open http://localhost:8501 in your browser.
 
-📁 Repository Structurejavascriptfraud-detection/
+📁 Repository Structure   javascriptfraud-detection/
 ├── app.py                 # Main Streamlit dashboard
 ├── evaluate_model.py      # Model evaluation script
 ├── random_forest.joblib   # Trained model
@@ -60,5 +60,3 @@ Then open http://localhost:8501 in your browser.
 The Random Forest model achieved high performance on imbalanced fraud data with proper preprocessing and feature selection. 
 The dashboard allows fraud analysts to simulate real-time decision making.👨‍💻 Author
 SabariInternship Project - Machine Learning & Data Analytics⭐
-
-If you found this project helpful, please star the repo!
