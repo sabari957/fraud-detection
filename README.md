@@ -58,8 +58,8 @@ Then open http://localhost:8501 in your browser.
 └── WORKFLOW.md            # Project workflow
 ```
 📊 Results
-The Random Forest model achieved high performance on imbalanced fraud data with proper preprocessing and feature selection. 
-The dashboard allows fraud analysts to simulate real-time decision making.
+- The Random Forest model achieved high performance on imbalanced fraud data with proper preprocessing and feature selection. 
+- The dashboard allows fraud analysts to simulate real-time decision making.
 
 👨‍💻 Author
-Sabari & Sam Internship Project - Machine Learning & Data Analytics⭐
+- Sabari & Sam Internship Project - Machine Learning & Data Analytics⭐
