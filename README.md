@@ -44,6 +44,7 @@ pip install -r requirements.txt
 Run the Streamlit app
 bashstreamlit run app.py
 Then open http://localhost:8501 in your browser.
+```
 
 📁 Repository Structure   javascriptfraud-detection/
 ├── app.py                 # Main Streamlit dashboard
