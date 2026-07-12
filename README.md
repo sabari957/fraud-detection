@@ -1,6 +1,6 @@
 # 🛡️ GuardianEye — Real-Time Fraud Detection Dashboard
 
-> **Internship Project** | Machine Learning · Fraud Detection · Interactive Dashboard  
+> **Internship Project** | Machine Learning & Data Analytics · Fraud Detection · Interactive Dashboard  
 > Built with Python, Streamlit, Plotly, and scikit-learn Random Forest
 
 ---
@@ -62,4 +62,4 @@ Then open http://localhost:8501 in your browser.
 - The dashboard allows fraud analysts to simulate real-time decision making.
 
 👨‍💻 Author
-- Sabari & Sam Internship Project - Machine Learning & Data Analytics⭐
+- Sabarinathan & Sam Sherwin
